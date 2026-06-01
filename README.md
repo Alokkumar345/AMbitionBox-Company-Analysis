@@ -28,7 +28,7 @@ This project analyzes AmbitionBox company data using Python, Pandas, Matplotlib,
 ### Reviews vs Ratings
 ### relationship b/w reviews and rating
 ### average rating by location
-### top 10 companies by reviewa
+### top 10 companies by reviews
 
 ## Key Insights
 
